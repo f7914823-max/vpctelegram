@@ -3,4 +3,46 @@
 Установка одной командой:
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/USERNAME/vpctelegram/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/f7914823-max/vpctelegram/main/install.sh)
+```
+
+После установки запусти панель:
+
+```bash
+vpctelegram
+```
+
+---
+
+## Возможности
+
+* Установка MTProto Proxy (Telegram)
+* Обновление прокси
+* Удаление прокси
+* Выбор домена для маскировки
+* Выбор порта (443 / 8443 / свой)
+* Автоматическая генерация ссылки подключения
+
+---
+
+## Требования
+
+* Ubuntu 22.04
+* Root доступ
+
+---
+
+## Быстрый старт
+
+1. Подключись к серверу
+2. Выполни команду установки
+3. Запусти панель `vpctelegram`
+4. Выбери нужное действие
+
+---
+
+## Команда запуска
+
+```bash
+vpctelegram
+```
