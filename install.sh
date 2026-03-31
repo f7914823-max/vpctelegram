@@ -1,5 +1,5 @@
-#!/bin/bash
 
+#!/bin/bash
 set -e
 
 REPO_URL="https://github.com/f7914823-max/vpctelegram.git"
